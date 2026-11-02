@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-02T10:52:58Z",
+  "generatedAt": "2026-11-02T10:53:55Z",
   "lastSuccessAt": "2026-11-02T10:52:58Z",
   "source": "x-api-v2 (initial seed)",
-  "stale": false,
+  "stale": true,
   "handles": [
     "trrxitte",
     "traaitt",
@@ -432,5 +432,6 @@
         "replies": 0
       }
     }
-  ]
+  ],
+  "lastError": "X_BEARER_TOKEN not set; XAI_API_KEY not set"
 }
