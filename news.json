@@ -1,0 +1,436 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-02T10:52:58Z",
+  "lastSuccessAt": "2026-11-02T10:52:58Z",
+  "source": "x-api-v2 (initial seed)",
+  "stale": false,
+  "handles": [
+    "trrxitte",
+    "traaitt",
+    "traaittXTCASH",
+    "nyantereum"
+  ],
+  "items": [
+    {
+      "id": "2100187397250064825",
+      "url": "https://x.com/trrxitte/status/2100187397250064825",
+      "author": {
+        "handle": "trrxitte",
+        "name": "TRRXITTE Int., incorporate",
+        "avatar": "https://pbs.twimg.com/profile_images/1974587977205428224/P9KjvKRa_bigger.png"
+      },
+      "text": "",
+      "createdAt": "2026-09-16T11:37:49Z",
+      "media": [
+        {
+          "type": "photo",
+          "thumb": "https://pbs.twimg.com/media/HSVdTawXsAATvgd.jpg",
+          "url": "https://pbs.twimg.com/media/HSVdTawXsAATvgd.jpg"
+        }
+      ],
+      "metrics": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "2077174910539968733",
+      "url": "https://x.com/trrxitte/status/2077174910539968733",
+      "author": {
+        "handle": "trrxitte",
+        "name": "TRRXITTE Int., incorporate",
+        "avatar": "https://pbs.twimg.com/profile_images/1974587977205428224/P9KjvKRa_bigger.png"
+      },
+      "text": "I just activated my creator coin on @Zora\nCheck it out $trrxitte",
+      "createdAt": "2026-07-14T23:34:25Z",
+      "media": [],
+      "metrics": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "2043296235222683855",
+      "url": "https://x.com/trrxitte/status/2043296235222683855",
+      "author": {
+        "handle": "trrxitte",
+        "name": "TRRXITTE Int., incorporate",
+        "avatar": "https://pbs.twimg.com/profile_images/1974587977205428224/P9KjvKRa_bigger.png"
+      },
+      "text": "New release candidate for XTE and XTCASH in the next time, we’ll add all architectures + expand our node network + add faster syncing speeds, miningpool later > MINER binaries added",
+      "createdAt": "2026-04-12T11:52:39Z",
+      "media": [],
+      "metrics": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 0
+      }
+    },
+    {
+      "id": "2042787462246777054",
+      "url": "https://x.com/trrxitte/status/2042787462246777054",
+      "author": {
+        "handle": "trrxitte",
+        "name": "TRRXITTE Int., incorporate",
+        "avatar": "https://pbs.twimg.com/profile_images/1974587977205428224/P9KjvKRa_bigger.png"
+      },
+      "text": "Apple Silicon versions for XTE and XTCASH binaries will be live soon",
+      "createdAt": "2026-04-11T02:10:58Z",
+      "media": [],
+      "metrics": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "2042780154888376710",
+      "url": "https://x.com/trrxitte/status/2042780154888376710",
+      "author": {
+        "handle": "trrxitte",
+        "name": "TRRXITTE Int., incorporate",
+        "avatar": "https://pbs.twimg.com/profile_images/1974587977205428224/P9KjvKRa_bigger.png"
+      },
+      "text": "Nintondo will also launch within an expected timeframe and is almost fully developed, including notarized QT - Electrum wallets & iOS + Android apps includes mempool custom version and legacy explorer!",
+      "createdAt": "2026-04-11T01:41:56Z",
+      "media": [],
+      "metrics": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 0
+      }
+    },
+    {
+      "id": "2042779673369702458",
+      "url": "https://x.com/trrxitte/status/2042779673369702458",
+      "author": {
+        "handle": "trrxitte",
+        "name": "TRRXITTE Int., incorporate",
+        "avatar": "https://pbs.twimg.com/profile_images/1974587977205428224/P9KjvKRa_bigger.png"
+      },
+      "text": "We will move server to Telekom except network nodes globally then restore all services starting from 15th May",
+      "createdAt": "2026-04-11T01:40:01Z",
+      "media": [],
+      "metrics": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 1
+      }
+    },
+    {
+      "id": "2042779373003059598",
+      "url": "https://x.com/trrxitte/status/2042779373003059598",
+      "author": {
+        "handle": "trrxitte",
+        "name": "TRRXITTE Int., incorporate",
+        "avatar": "https://pbs.twimg.com/profile_images/1974587977205428224/P9KjvKRa_bigger.png"
+      },
+      "text": "Network and blockchain height will recover healthy from height ~2 months ago, funds are safe! XTE and XTCASH will continue..",
+      "createdAt": "2026-04-11T01:38:50Z",
+      "media": [],
+      "metrics": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "2042778653361131729",
+      "url": "https://x.com/trrxitte/status/2042778653361131729",
+      "author": {
+        "handle": "trrxitte",
+        "name": "TRRXITTE Int., incorporate",
+        "avatar": "https://pbs.twimg.com/profile_images/1974587977205428224/P9KjvKRa_bigger.png"
+      },
+      "text": "XTCASH Explorer back online including main wallet node!",
+      "createdAt": "2026-04-11T01:35:58Z",
+      "media": [],
+      "metrics": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "2042773944164327607",
+      "url": "https://x.com/trrxitte/status/2042773944164327607",
+      "author": {
+        "handle": "trrxitte",
+        "name": "TRRXITTE Int., incorporate",
+        "avatar": "https://pbs.twimg.com/profile_images/1974587977205428224/P9KjvKRa_bigger.png"
+      },
+      "text": "https://github.com/TRRXITTE/traaittXTCASHEnterprise/releases/download/1.0.0/traaittXTCASH.Enterprise-1.0.0-signed.dmg",
+      "createdAt": "2026-04-11T01:17:15Z",
+      "media": [],
+      "metrics": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "2042772785609470289",
+      "url": "https://x.com/trrxitte/status/2042772785609470289",
+      "author": {
+        "handle": "trrxitte",
+        "name": "TRRXITTE Int., incorporate",
+        "avatar": "https://pbs.twimg.com/profile_images/1974587977205428224/P9KjvKRa_bigger.png"
+      },
+      "text": "In the next time we will update all XTE and XTCASH software and make the blockchain mining pools accessible again.",
+      "createdAt": "2026-04-11T01:12:39Z",
+      "media": [],
+      "metrics": {
+        "likes": 2,
+        "reposts": 1,
+        "replies": 0
+      }
+    },
+    {
+      "id": "2042772596911931803",
+      "url": "https://x.com/trrxitte/status/2042772596911931803",
+      "author": {
+        "handle": "trrxitte",
+        "name": "TRRXITTE Int., incorporate",
+        "avatar": "https://pbs.twimg.com/profile_images/1974587977205428224/P9KjvKRa_bigger.png"
+      },
+      "text": "https://github.com/TRRXITTE/traaittEnterpriseXTE/releases/download/XTE%2B-1.0.0/traaittEnterprise.XTE-1.0.0-signed.dmg",
+      "createdAt": "2026-04-11T01:11:54Z",
+      "media": [],
+      "metrics": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "2042772535796715751",
+      "url": "https://x.com/trrxitte/status/2042772535796715751",
+      "author": {
+        "handle": "trrxitte",
+        "name": "TRRXITTE Int., incorporate",
+        "avatar": "https://pbs.twimg.com/profile_images/1974587977205428224/P9KjvKRa_bigger.png"
+      },
+      "text": "traaittXTCASH has been signed and notarized for OSX!",
+      "createdAt": "2026-04-11T01:11:40Z",
+      "media": [],
+      "metrics": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 1
+      }
+    },
+    {
+      "id": "2042772091762573409",
+      "url": "https://x.com/trrxitte/status/2042772091762573409",
+      "author": {
+        "handle": "trrxitte",
+        "name": "TRRXITTE Int., incorporate",
+        "avatar": "https://pbs.twimg.com/profile_images/1974587977205428224/P9KjvKRa_bigger.png"
+      },
+      "text": "traaittXTE Enterprise has been signed and notarized for OSX!",
+      "createdAt": "2026-04-11T01:09:54Z",
+      "media": [],
+      "metrics": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      }
+    },
+    {
+      "id": "2042766938326159617",
+      "url": "https://x.com/trrxitte/status/2042766938326159617",
+      "author": {
+        "handle": "trrxitte",
+        "name": "TRRXITTE Int., incorporate",
+        "avatar": "https://pbs.twimg.com/profile_images/1974587977205428224/P9KjvKRa_bigger.png"
+      },
+      "text": "https://testflight.apple.com/join/mDTnfwTP",
+      "createdAt": "2026-04-11T00:49:25Z",
+      "media": [],
+      "metrics": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 0
+      }
+    },
+    {
+      "id": "2038082588472926568",
+      "url": "https://x.com/trrxitte/status/2038082588472926568",
+      "author": {
+        "handle": "trrxitte",
+        "name": "TRRXITTE Int., incorporate",
+        "avatar": "https://pbs.twimg.com/profile_images/1974587977205428224/P9KjvKRa_bigger.png"
+      },
+      "text": "https://paperwallet.nintondo.trrxitte.com/",
+      "createdAt": "2026-03-29T02:35:29Z",
+      "media": [],
+      "metrics": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 0
+      }
+    },
+    {
+      "id": "1988285100497531265",
+      "url": "https://x.com/nyantereum/status/1988285100497531265",
+      "author": {
+        "handle": "nyantereum",
+        "name": "Nyantereum International",
+        "avatar": "https://pbs.twimg.com/profile_images/1640926281448431616/QItGvieH_bigger.jpg"
+      },
+      "text": "Request to update NYANTE coinMarketCap index site into TRRXITTE Ethereum, while internally developing second stage software with onward integration before application priority will be centered.",
+      "createdAt": "2025-11-11T16:38:03Z",
+      "media": [],
+      "metrics": {
+        "likes": 5,
+        "reposts": 2,
+        "replies": 5
+      }
+    },
+    {
+      "id": "1850520351760842754",
+      "url": "https://x.com/nyantereum/status/1850520351760842754",
+      "author": {
+        "handle": "nyantereum",
+        "name": "Nyantereum International",
+        "avatar": "https://pbs.twimg.com/profile_images/1640926281448431616/QItGvieH_bigger.jpg"
+      },
+      "text": "#MyXAnniversary",
+      "createdAt": "2024-10-27T12:50:07Z",
+      "media": [
+        {
+          "type": "photo",
+          "thumb": "https://pbs.twimg.com/media/Ga5ec66WYAAnF8E.jpg",
+          "url": "https://pbs.twimg.com/media/Ga5ec66WYAAnF8E.jpg"
+        }
+      ],
+      "metrics": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "1726606099514835215",
+      "url": "https://x.com/nyantereum/status/1726606099514835215",
+      "author": {
+        "handle": "nyantereum",
+        "name": "Nyantereum International",
+        "avatar": "https://pbs.twimg.com/profile_images/1640926281448431616/QItGvieH_bigger.jpg"
+      },
+      "text": "NYANTE and NYANDOGE have been integrated on https://t.co/IxdGrMdDao",
+      "createdAt": "2023-11-20T14:19:07Z",
+      "media": [
+        {
+          "type": "photo",
+          "thumb": "https://pbs.twimg.com/media/F_YjGDZXIAAFVUG.jpg",
+          "url": "https://pbs.twimg.com/media/F_YjGDZXIAAFVUG.jpg"
+        }
+      ],
+      "metrics": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 2
+      }
+    },
+    {
+      "id": "1724408066874224995",
+      "url": "https://x.com/nyantereum/status/1724408066874224995",
+      "author": {
+        "handle": "nyantereum",
+        "name": "Nyantereum International",
+        "avatar": "https://pbs.twimg.com/profile_images/1640926281448431616/QItGvieH_bigger.jpg"
+      },
+      "text": "new ATH for $NYANTE",
+      "createdAt": "2023-11-14T12:44:55Z",
+      "media": [
+        {
+          "type": "photo",
+          "thumb": "https://pbs.twimg.com/media/F-5T_vrWYAAV9VU.jpg",
+          "url": "https://pbs.twimg.com/media/F-5T_vrWYAAV9VU.jpg"
+        }
+      ],
+      "metrics": {
+        "likes": 4,
+        "reposts": 1,
+        "replies": 1
+      }
+    },
+    {
+      "id": "1698773552600609270",
+      "url": "https://x.com/nyantereum/status/1698773552600609270",
+      "author": {
+        "handle": "nyantereum",
+        "name": "Nyantereum International",
+        "avatar": "https://pbs.twimg.com/profile_images/1640926281448431616/QItGvieH_bigger.jpg"
+      },
+      "text": "https://coinmarketcap.com/currencies/nyantereum/",
+      "createdAt": "2023-09-04T19:02:31Z",
+      "media": [],
+      "metrics": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "999534331486986240",
+      "url": "https://x.com/traaitt/status/999534331486986240",
+      "author": {
+        "handle": "traaitt",
+        "name": "traaitt | TRRXITTE",
+        "avatar": "https://pbs.twimg.com/profile_images/867781577740357632/msF4_v2l_bigger.jpg"
+      },
+      "text": "Ich mag das @YouTube-Video: https://t.co/ohamqkcans What to do when someone builds over you! (Fortnite TIPS & TRICKS)",
+      "createdAt": "2018-05-24T06:15:29Z",
+      "media": [],
+      "metrics": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "954926261779955712",
+      "url": "https://x.com/traaitt/status/954926261779955712",
+      "author": {
+        "handle": "traaitt",
+        "name": "traaitt | TRRXITTE",
+        "avatar": "https://pbs.twimg.com/profile_images/867781577740357632/msF4_v2l_bigger.jpg"
+      },
+      "text": "Ich mag das @YouTube-Video: https://t.co/Jlg2uwNFl0 U.O.E.N.O. (feat. Future, Rick Ross, A$AP Rocky, Wiz Khalifa & 2 Chainz) Remix",
+      "createdAt": "2018-01-21T03:58:57Z",
+      "media": [],
+      "metrics": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "848213075316678658",
+      "url": "https://x.com/traaitt/status/848213075316678658",
+      "author": {
+        "handle": "traaitt",
+        "name": "traaitt | TRRXITTE",
+        "avatar": "https://pbs.twimg.com/profile_images/867781577740357632/msF4_v2l_bigger.jpg"
+      },
+      "text": "Sieh dir dieses musical.ly an: https://t.co/44a429DD5t (von @ lisaandlena gemacht mit @musicallyapp) #",
+      "createdAt": "2017-04-01T16:38:50Z",
+      "media": [
+        {
+          "type": "video",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/848212997273210880/pu/img/7JqO9NmX7gA3eFaL.jpg",
+          "url": "https://pbs.twimg.com/ext_tw_video_thumb/848212997273210880/pu/img/7JqO9NmX7gA3eFaL.jpg"
+        }
+      ],
+      "metrics": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      }
+    }
+  ]
+}

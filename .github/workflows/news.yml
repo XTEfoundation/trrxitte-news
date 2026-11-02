@@ -1,0 +1,44 @@
+name: Refresh X news feed
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [scripts/**, .github/workflows/news.yml]
+permissions:
+  contents: write
+concurrency:
+  group: news
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch posts
+        env:
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+          XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+        run: python3 scripts/fetch_news.py
+      - name: Validate
+        run: python3 -c "import json;d=json.load(open('news.json'));assert isinstance(d['items'],list);print(len(d['items']),'items')"
+      - name: Commit if changed
+        run: |
+          git config user.name "trrxitte-news-bot"
+          git config user.email "noreply@xtfoundation.dev"
+          # Only commit when post data changed (ignore timestamp-only churn unless stale flag flips).
+          if git diff --quiet -- news.json; then echo "no change"; exit 0; fi
+          python3 - <<'PY'
+          import json,subprocess,sys
+          old=subprocess.run(["git","show","HEAD:news.json"],capture_output=True,text=True).stdout
+          o=json.loads(old) if old else {}
+          n=json.load(open("news.json"))
+          same = o.get("items")==n.get("items") and o.get("stale")==n.get("stale")
+          open("/tmp/same","w").write("1" if same else "0")
+          PY
+          if [ "$(cat /tmp/same)" = "1" ]; then git checkout -- news.json; echo "timestamp-only change skipped"; exit 0; fi
+          git add news.json
+          git commit -m "news: refresh $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
